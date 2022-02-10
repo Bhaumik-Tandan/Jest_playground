@@ -1,0 +1,17 @@
+TN:
+SF:fibo.js
+FN:1,fibo
+FNF:1
+FNH:1
+FNDA:2,fibo
+DA:3,2
+DA:4,2
+DA:5,0
+DA:7,1
+LF:4
+LH:3
+BRDA:3,0,0,2
+BRDA:3,0,1,0
+BRF:2
+BRH:1
+end_of_record
